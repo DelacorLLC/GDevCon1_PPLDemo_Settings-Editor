@@ -89,8 +89,6 @@
 		<Item Name="Save Settings to XML.vi" Type="VI" URL="../Save Settings to XML.vi"/>
 		<Item Name="Default Settings.vi" Type="VI" URL="../Default Settings.vi"/>
 	</Item>
-	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-	</Item>
+	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 	<Item Name="Test Settings Editor API.vi" Type="VI" URL="../Test Settings Editor API.vi"/>
 </Library>
