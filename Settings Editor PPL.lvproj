@@ -106,7 +106,7 @@
 				<Property Name="Bld_excludeDependentPPLs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/Delacor/PPLs</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D5C6D533-6544-4C67-93DF-3E7244DDC4E8}</Property>
-				<Property Name="Bld_version.build" Type="Int">4</Property>
+				<Property Name="Bld_version.build" Type="Int">5</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">CML_Settings Editor.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Delacor/PPLs/CML_Settings Editor.lvlibp</Property>
